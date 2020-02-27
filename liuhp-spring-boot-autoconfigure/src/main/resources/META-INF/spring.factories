@@ -1,0 +1,5 @@
+
+
+#À©Õ¹×¢Èë
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.liuhp.LiuhpAutoConfiguration
